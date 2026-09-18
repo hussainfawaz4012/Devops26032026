@@ -1,0 +1,13 @@
+# Package manifests
+package.xml
+
+# LWC configuration files
+**/jsconfig.json
+**/.eslintrc.json
+
+# Node modules
+node_modules/
+
+# Local configuration files
+.sfdx/
+.sf/
